@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiriel&show_icons=true&theme=tokyonight) ![GitHub Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierstoval&theme=tokyonight&layout=compact&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiriel&show_icons=true&theme=tokyonight) ![GitHub Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tiriel&theme=tokyonight&layout=compact&langs_count=10)
 
 WiP
 <!--
