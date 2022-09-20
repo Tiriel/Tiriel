@@ -1,5 +1,7 @@
 # Hi there 👋
 
+⚠️ "Master Symfony" Training Dependency Injection exercise base [right here](https://gist.github.com/Tiriel/172196bc148271f0ce57b3dd9c680efe)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiriel&show_icons=true&theme=tokyonight) ![GitHub Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tiriel&theme=tokyonight&layout=compact&langs_count=10)
 
 WiP
